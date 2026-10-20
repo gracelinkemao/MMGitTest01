@@ -1,0 +1,17 @@
+/xml/
+/output/
+/.idea/
+/output、/
+/apache-tomcat-10.0.20/
+/.pytest_cache/
+/allure-report/
+/allure-results/
+/allure-report/
+/report/
+/apache-tomcat-10.0.20/
+/allure-report/
+*.log
+*.xls
+/Run.py
+__pycache__/
+*.pyc
